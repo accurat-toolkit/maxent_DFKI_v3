@@ -1,0 +1,1 @@
+./extract --source de --target en --param LEX=Script/lex.6.f2e TRAIN=0 TRAIN_SIZE=0 TEST_SIZE=0 --input /share/accurat/tmp.zhang/data/Accurat/newCrawl/res/newCrawl01-08-11/input --output ./sample/output 
